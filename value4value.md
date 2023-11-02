@@ -1,12 +1,12 @@
 # Value for Value
 
-The Dragons **do not charge** for House Services.
+The Dragons **do not charge** for House Services - neither do we ask for personal cash or favours.
 
 Instead we ask that you provide "Value for Value".  Whatever amount of benefit YOU perceive from using the house, you may give back as YOU decide.
 
-Dragons do not accept personal cash or favours.  The Value you provide (Tasks, Items, [donations](https://getalby.com/p/dragonsdom)) is always for the benefit of other guests, like you!  
+The Value you provide (Tasks, Items, [donations](https://getalby.com/p/dragonsdom)) is always for the benefit of other guests, like you!  
 
-Together we can make Dragons Dom a springboard for those arriving to, returning to, or on holiday from, Liberland.
+Together we can make Dragons Dom a welcome refuge, and a springboard for those arriving to, returning to, or on holiday from, Liberland.
 
 ## Example Tasks you may perform:
 
