@@ -11,5 +11,6 @@ To our friends and guests we offer / plan to offer the following House Services:
 - Hot Showers
 - Camping
 - Mailbox
+- Kitchen
 - Bikes
-- Food
+
