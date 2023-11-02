@@ -2,11 +2,13 @@
 
 The Dragons do not charge for your use of House Services, however - we are the ones who pay for them, maintain them, and are responsible for them!
 
-Instead we ask that you provide "Value for Value".  Whatever benefit YOU perceive that you received from using the house, you can give back as much benefit (to the house, or users of the house) as YOU decide.
+Instead we ask that you provide "Value for Value".  Whatever amount of benefit YOU perceive from using the house, you may give back as YOU decide.
 
-Do NOT offer cash or favours to Dragons directly.  Instead you may purchase items, perform services, or [donate to the House Fund](https://getalby.com/p/dragonsdom).
+Dragons cannot accept personal cash or favours.  The Value you provide (Tasks, Items, [donations](https://getalby.com/p/dragonsdom)) must be for the benefit of ALL users of the house.  Examples are provided below, and all ideas are welcome!
 
-## Services ANYONE can provide:
+Together we can make Dragons Dom a springboard for those arriving to, returning to, or on holiday from, Liberland.
+
+## Tasks ANYONE can provide:
 
 - Collect grey water from the fountain by the roundabout
 - Bring wood, for winter

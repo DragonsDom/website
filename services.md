@@ -1,6 +1,6 @@
-# Services
+# House Services
 
-To our friends and guests we offer / plan to offer the following services:
+To our friends and guests we offer / plan to offer the following House Services:
 
 - Secure Parking (subject to availability)
 - Temporary (1-2 nights) accomodation
