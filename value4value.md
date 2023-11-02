@@ -1,14 +1,14 @@
 # Value for Value
 
-The Dragons do not charge for your use of House Services, however - we are the ones who pay for them, maintain them, and are responsible for them!
+The Dragons **do not charge** for House Services.
 
 Instead we ask that you provide "Value for Value".  Whatever amount of benefit YOU perceive from using the house, you may give back as YOU decide.
 
-Dragons cannot accept personal cash or favours.  The Value you provide (Tasks, Items, [donations](https://getalby.com/p/dragonsdom)) must be for the benefit of ALL users of the house.  Examples are provided below, and all ideas are welcome!
+Dragons do not accept personal cash or favours.  The Value you provide (Tasks, Items, [donations](https://getalby.com/p/dragonsdom)) is always for the benefit of other guests, like you!  
 
 Together we can make Dragons Dom a springboard for those arriving to, returning to, or on holiday from, Liberland.
 
-## Tasks ANYONE can provide:
+## Example Tasks you may perform:
 
 - Collect grey water from the fountain by the roundabout
 - Bring wood, for winter
@@ -16,7 +16,7 @@ Together we can make Dragons Dom a springboard for those arriving to, returning 
 - Following and sharing our [Social Page on Nostr](https://satellite.earth/@npub18nfdmwvys3mk5fj7r7d25gmg4s68ns0u2qp0hgkyhy4m0g3ulwuqg6m9sm)
 - Decoration / House maintenance (if you have the skills)
 
-## Items we need:
+## Example Items we need:
 
 * Pump for the well
 * Registration for connecting to mains water (~600 euros)
