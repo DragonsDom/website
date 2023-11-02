@@ -1,0 +1,24 @@
+name: Publish to dragonsdom.org
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    name: Deploy docs
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 18
+
+      - name: Checkout master
+        uses: actions/checkout@v2
+
+      - name: Install Surfer
+        run: |
+          npm -g install cloudron-surfer
+
+      - name: Deploy docs
+        run: surfer put --token ${{ secrets.SURFERKEY }} --server dragonsdom.org ./* /
