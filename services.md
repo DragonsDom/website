@@ -14,3 +14,4 @@ To our friends and guests we offer / plan to offer the following House Services:
 - Kitchen
 - Bikes
 
+Please log your use of these services via this [form](https://docs.dragonsdom.org/apps/forms/s/jtaGRkK26qMkNL2Z4SNTFswt)

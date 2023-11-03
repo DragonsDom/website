@@ -27,3 +27,8 @@ Together we can make Dragons Dom a welcome refuge, and a springboard for those a
 * Bricks, cement
 * Doors
 * Combination padlocks and lock boxes
+
+
+Grey water source:
+
+![](static/assets/img/watersource.webp)
