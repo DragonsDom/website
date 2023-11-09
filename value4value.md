@@ -10,7 +10,7 @@ Together we can make Dragons Dom a welcome refuge, and a springboard for those a
 
 ## Example Tasks you may perform:
 
-- Collect grey water from the fountain by the roundabout
+- Collect grey water from the fountain by the roundabout (we have no connected water yet)
 - Bring wood, for winter
 - Cleaning, hoovering, etc
 - Following and sharing our [Social Page on Nostr](https://satellite.earth/@npub18nfdmwvys3mk5fj7r7d25gmg4s68ns0u2qp0hgkyhy4m0g3ulwuqg6m9sm)
@@ -18,15 +18,17 @@ Together we can make Dragons Dom a welcome refuge, and a springboard for those a
 
 ## Example Items we need:
 
+* Water for the house (we have no connnection)
 * Pump for the well
 * Registration for connecting to mains water (~600 euros)
-* Computer for the CCTV (8gb ram with SSD)
-* IP Cameras for the CCTV (with microphone, night vision, ONVIF)
 * Tools - all kinds!
 * Lawnmower
 * Bricks, cement
 * Doors
 * Combination padlocks and lock boxes
+* Food / drinks for visitors
+
+Also, any other items that might be useful for the DD community!
 
 
 Grey water source:
