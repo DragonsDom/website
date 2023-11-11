@@ -14,4 +14,7 @@ To our friends and guests we offer / plan to offer the following House Services:
 - Kitchen
 - Bikes
 
-Please log your use of these services via this [form](https://docs.dragonsdom.org/apps/forms/s/jtaGRkK26qMkNL2Z4SNTFswt)
+Service usage must always be agreed in advance (see [House Rules](/rules.md)).
+
+Services are provided free of charge!  We just ask that you provide some [value](/value4value.md) back to the house, for the benefit of other guests.
+

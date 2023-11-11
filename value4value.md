@@ -8,29 +8,33 @@ The Value you provide (Tasks, Items, [donations](https://getalby.com/p/dragonsdo
 
 Together we can make Dragons Dom a welcome refuge, and a springboard for those arriving to, returning to, or on holiday from, Liberland.
 
-## Example Tasks you may perform:
+## Valuable Services 
 
-- Collect grey water from the fountain by the roundabout (we have no connected water yet)
-- Bring wood, for winter
+House Guests may bring value through the provision of services, such as:
+
+- Bringing wood, for heating
 - Cleaning, hoovering, etc
+- Woodwork / fixing various items around the property
+- Graphic Design / other digital services for the Dragons Dom brand
 - Following and sharing our [Social Page on Nostr](https://satellite.earth/@npub18nfdmwvys3mk5fj7r7d25gmg4s68ns0u2qp0hgkyhy4m0g3ulwuqg6m9sm)
 - Decoration / House maintenance (if you have the skills)
+- Soliciting for [Donations](https://getalby.com/p/dragonsdom)
 
-## Example Items we need:
+## Valuable Items
 
-* Water for the house (we have no connnection)
-* Pump for the well
-* Registration for connecting to mains water (~600 euros)
+Dragons Dom is also in need of a whole bunch of stuff!
+
 * Tools - all kinds!
+* Construction Materials
+* Solar Panels
+* Water Filter
 * Lawnmower
 * Bricks, cement
 * Doors
 * Combination padlocks and lock boxes
 * Food / drinks for visitors
+* [Donations](https://getalby.com/p/dragonsdom)
 
-Also, any other items that might be useful for the DD community!
+Basically, anything that might be useful for the DD community!
 
 
-Grey water source:
-
-![](static/assets/img/watersource.webp)
