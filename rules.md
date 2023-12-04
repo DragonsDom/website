@@ -5,6 +5,7 @@ To avoid abuse / misuse and to make Dragons Dom a pleasant and safe space for th
 
 - Obtain Dragon Approval **before** using [House Services](/services)
   - No unannounced visits
+  - If you ask someone else to visit, ensure they are aware of these rules
 - Be clean and tidy
   - No littering
   - No shoes in the house
