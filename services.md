@@ -1,20 +1,23 @@
 # House Services
 
-To our friends and guests we offer / plan to offer the following House Services:
+We offer the Services below to anyone who would like to visit Liberland.  Service usage must always be agreed and paid for in advance (see [House Rules](/rules.md)).  All prices are in Liberland Merits (LLM).
 
-- Secure Parking (subject to availability)
-- Temporary (1-2 nights) accomodation
-- Public Parking (lots of it)
-- Police Registrations
-- Washing Machine
-- Storage Boxes
-- Hot Showers
-- Camping
-- Mailbox
-- Kitchen
-- Bikes
 
-Service usage must always be agreed in advance (see [House Rules](/rules.md)).
+|Item|Unit| Daily| Weekly | Monthly|
+|---|---|---|---|---|
+|Use of house (toilet, kitchen, electricity, wifi etc)|Per Person per day| 1  |4 | 12 |
+|Caravan. Includes use of house.|Per person per night|3 | 15 | 45 |
+|Inside Bed. Includes use of house.|Per person per night|3|15|45|
+|Inside Couch. Includes use of house.|Per person per night|2|10|30|
+|Vehicles (secure). Includes use of house.|Per vehicle per night| 1  |4 | 12 |
+|Bag storage|Per bag per night|0.5|2.5|7.5|
+|Bicycle storage|Per bike per night|0.5|2.5|7.5|
+|Use of Garage|Unlimited use|n/a|n/a|75|
+|Use of Downstairs apartment|Unlimited use|n/a|n/a|125|
 
-Services are provided free of charge!  We just ask that you provide some [value](/value4value.md) back to the house, for the benefit of other guests.
+100% of these payments go towards running costs and improving the Dragons Dom experience for everyone.  They do NOT go to Dragons as income.  
+
+
+
+
 
