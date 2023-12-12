@@ -7,7 +7,7 @@ We offer the Services below to anyone who would like to visit Liberland.  Servic
 |---|---|---|---|---|
 |Use of house (toilet, kitchen, electricity, wifi etc)|Per Person per day| 1  |4 | 12 |
 |Caravan. Includes use of house.|Per person per night|3 | 15 | 45 |
-|Inside Bed. Includes use of house.|Per person per night|3|15|45|
+|Inside Bed. Includes use of house.|Per person per night|4|20|60|
 |Inside Couch. Includes use of house.|Per person per night|2|10|30|
 |Vehicles (secure). Includes use of house.|Per vehicle per night| 1  |4 | 12 |
 |Bag storage|Per bag per night|0.5|2.5|7.5|
