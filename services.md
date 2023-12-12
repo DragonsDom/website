@@ -15,7 +15,6 @@ We offer the Services below to anyone who would like to visit Liberland.  Servic
 |Use of Garage|Unlimited use|n/a|n/a|75|
 |Use of Downstairs apartment|Unlimited use|n/a|n/a|125|
 
-100% of these payments go towards running costs and improving the Dragons Dom experience for everyone.  They do NOT go to Dragons as income.  
 
 
 
