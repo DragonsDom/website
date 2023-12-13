@@ -2,7 +2,7 @@
 
 To avoid abuse / misuse and to make Dragons Dom a pleasant and safe space for the owners, residents, guests, and neighbours - we have a short but important list of House Rules!
 
-- Obtain Dragon Approval **before** using [House Services](/services)
+- Notify Dragons **before** using [House Services](/services)
   - No unannounced visits
   - If you ask someone else to visit, ensure they are aware of these rules
 - Be clean and tidy
