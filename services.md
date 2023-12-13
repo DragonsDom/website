@@ -16,8 +16,10 @@ We offer the Services below to anyone who would like to visit Liberland.  Servic
 |Use of Garage|Unlimited use|n/a|n/a|75|
 |Use of Downstairs apartment|Unlimited use|n/a|n/a|125|
 
+There are some services we explicitly do not provide, notably:
 
-
+- Trash Disposal.  Do not bring trash to DD, not even for temporary storage.
+- Hot Showers / Washing Machine.  Unfortunately, we don't have a proper water system (yet).
 
 
 
