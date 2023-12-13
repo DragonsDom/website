@@ -15,6 +15,8 @@ We offer the Services below to anyone who would like to visit Liberland.  Servic
 |Bicycle storage|Per Bike|0.5|2.5|7.5|
 |Use of Garage|Unlimited use|n/a|n/a|75|
 |Use of Downstairs apartment|Unlimited use|n/a|n/a|125|
+|PO Box (collect mail & parcels from DD)|Per named recipient|n/a|n/a|3|
+
 
 There are some services we explicitly do not provide, notably:
 
