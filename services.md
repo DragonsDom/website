@@ -12,7 +12,7 @@ We offer the Services below to anyone who would like to visit Liberland.  Servic
 |Camping. Includes use of house.|Per Person|2|10|30|
 |Vehicles (secure). Includes use of house.|Per Vehicle| 1  |5 | 15 |
 |Bag storage|Per Bag|0.5|2.5|7.5|
-|Bicycle storage|Per Bike|0.5|2.5|7.5|
+|Bicycle storage|Per Bike|0.25|1|3|
 |Garage Storage|Unlimited use|n/a|n/a|75|
 |Basement Storage|Unlimited use|n/a|n/a|125|
 |PO Box (collect mail & parcels from DD)|Per named recipient|0.5|1.5|3|
