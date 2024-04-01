@@ -7,7 +7,7 @@ Trash should be separted as follows:
 * Metals - BLACK
 * Mixed - GREEN
 
-## Sorted Trash (Yellow / Blue)
+## Sorted Trash (Yellow / Blue / Black)
 
 Yellow / Blue / Black containers are collected alternate **Wednesdays** according to the schedule below.
 
