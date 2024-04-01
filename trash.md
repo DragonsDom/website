@@ -4,11 +4,12 @@ Trash should be separted as follows:
 
 * Paper / cardboard - YELLOW 
 * Plastics - BLUE
+* Metals - BLACK
 * Mixed - GREEN
 
 ## Sorted Trash (Yellow / Blue)
 
-Yellow / Blue containers are collected alternate **Wednesdays** (one week yellow, one week blue)
+Yellow / Blue / Black containers are collected alternate **Wednesdays** according to the schedule below.
 
 ![](static/assets/img/trash-sorted.jpg)
 
