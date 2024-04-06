@@ -12,6 +12,8 @@ Trash should be separted as follows:
 
 Sorted (marked) containers are collected alternate **Wednesdays** according to the schedule below.
 
+Zmajevac is the section referenced as "Popovac I Kn. Vinogradi"
+
 ![](static/assets/img/trash-sorted.jpg)
 
 ![](static/assets/img/trash-bins.jpg)
