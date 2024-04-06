@@ -1,4 +1,6 @@
 * [House Services](/services.md)
 * [House Rules](/rules.md)
+* [House Details](/details.md)
 * [Trash](/trash.md)
+* [Work Needed](/jobs.md)
 * [Donations](https://getalby.com/p/dragonsdom)
