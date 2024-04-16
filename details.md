@@ -1,6 +1,6 @@
 # House Details
 
-Dragons Dom is a detached house with 3 floors, plus 3 cellars and a large garden.
+Dragons Dom is a detached house with 3 floors, plus 3 cellars and a large garden with orchard.
 
 ## Attic
 

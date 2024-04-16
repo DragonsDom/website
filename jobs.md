@@ -8,7 +8,7 @@ The mains water has been ordered from the municipality, when it arrives, it need
 
 ## Well Water supply
 
-There is a problem with the well (which is connected to the taps upstairs) as it does not maintain pressure.  Zoltan may be able to help with this.
+There is a problem with the well (which is connected to the taps upstairs) as it does not maintain pressure.  A new pipe is likely needed.
 
 ## Sealing the Attic Window
 
