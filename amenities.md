@@ -2,11 +2,11 @@
 
 ## Local Shop
 
-Open until 8pm but closed on Sundays.  Closest shop:  https://www.openstreetmap.org/#map=19/45.79835/18.80408
+Closest shop.  Open until 8pm but closed on Sundays.  https://www.openstreetmap.org/#map=19/45.79835/18.80408
 
 ## Local Food
 
-Goats Cheese, fresh eggs, yoghurt, and occasionally other items.  Call for info (has Signal).  In Batina but can deliver if the order is big enough.
+A variety of goats Cheese, fresh eggs, yoghurt, chickens (whole, or cuts), goat meat, rabbit, and occasionally other items.  Call for info (has Signal).  In Batina but can deliver if the order is big enough.
 
 +385955293555
 
@@ -18,7 +18,10 @@ These guys make excellent wine.  Just call and collect.
 
 ## Cup Massage and Nail Service
 
-By a local professional.  Email Dunja:  dunjazajec@icloud.com
+By a local professional. Shellac 20€, full set (extend nails) 30€.  The cupping massage is 35€.
+Available Monday-Friday from 5pm to 9pm or Saturdays and Sundays from 8am to 1pm.  
+
+Email Dunja:  dunjazajec@icloud.com
 
 ## Gardening
 
