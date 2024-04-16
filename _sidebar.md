@@ -5,3 +5,4 @@
 * [Trash](/trash.md)
 * [Work Needed](/jobs.md)
 * [Donations](https://getalby.com/p/dragonsdom)
+* [Contact](/contact.md)
