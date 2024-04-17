@@ -6,7 +6,7 @@ Closest shop.  Open until 8pm but closed on Sundays.  https://www.openstreetmap.
 
 ## Local Food
 
-A variety of goats Cheese, fresh eggs, yoghurt, chickens (whole, or cuts), goat meat, rabbit, and occasionally other items.  Call for info (has Signal).  In Batina but can deliver if the order is big enough.
+A variety of goats Cheese, fresh eggs, yoghurt, chickens (whole, or cuts), goat meat, rabbit, and occasionally other items.  Call **Vincent** for info (or message on Signal).  In Batina but can deliver if the order is big enough.
 
 +385955293555
 
