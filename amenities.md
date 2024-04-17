@@ -6,7 +6,7 @@ Closest shop.  Open until 8pm but closed on Sundays.  https://www.openstreetmap.
 
 ## Local Food
 
-A variety of goats Cheese, fresh eggs, yoghurt, chickens (whole, or cuts), goat meat, rabbit, and occasionally other items.  Call **Vincent** for info (or message on Signal).  In Batina but can deliver if the order is big enough.
+A variety of goats Cheese, fresh eggs, yoghurt, chickens (whole, or cuts), goat meat, rabbit, and occasionally other items.  Call **Vince** for info (or message on Signal).  In Batina but can deliver if the order is big enough.
 
 +385955293555
 
@@ -22,6 +22,8 @@ By a local professional. Shellac 20€, full set (extend nails) 30€.  The cupp
 Available Monday-Friday from 5pm to 9pm or Saturdays and Sundays from 8am to 1pm.  
 
 Email Dunja:  dunjazajec@icloud.com
+
+![](static/assets/img/dunja.png)
 
 ## Gardening
 
