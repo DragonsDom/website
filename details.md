@@ -22,6 +22,12 @@ The door to the balcony does not close easily, best not to open it.  The far lef
 
 Has a wood heater.
 
+## Kitchen
+
+Has stove with wood / coal heating, also an electric + gas oven.  
+
+We recommend to use bottled water in the electric kettle as the tap water will cause scaling / white residue inside.
+
 ## Downstairs Flat
 
 Currently used to store the waste whilst we wait for recycling pickups.  There is also a room that could be fairly liveable.
