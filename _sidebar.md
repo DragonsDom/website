@@ -3,6 +3,7 @@
 * [House Details](/details.md)
 * [Local Amenities](/amenities.md)
 * [Trash](/trash.md)
+* [Utilities](/utilities.md)
 * [Work Needed](/jobs.md)
 * [Donations](https://getalby.com/p/dragonsdom)
 * [Contact](/contact.md)

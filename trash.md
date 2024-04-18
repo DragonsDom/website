@@ -10,7 +10,7 @@ Trash should be separted as follows:
 
 ## Sorted Trash 
 
-Sorted (marked) containers are collected alternate **Wednesdays** according to the schedule below.
+Sorted (marked) containers are collected alternate **Wednesdays** according to the schedule below (but sometimes are collected a day later).
 
 Zmajevac is the section referenced as "Popovac I Kn. Vinogradi"
 
@@ -23,3 +23,8 @@ Zmajevac is the section referenced as "Popovac I Kn. Vinogradi"
 Mixed (Green, unmarked) is collected every **Monday**.  Some people have a contract for 2 mondays a month, which is slightly cheaper, and might be worth moving to at some point.
 
 ![](static/assets/img/trash-mixed.jpg)
+
+Important - be sure to use the green bin with the sticker below!  This is the RFID chip, and they won't take the other one (without the sticker)
+
+![](static/assets/img/trash-sticker.png)
+
