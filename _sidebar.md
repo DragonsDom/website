@@ -6,4 +6,5 @@
 * [Utilities](/utilities.md)
 * [Work Needed](/jobs.md)
 * [Donations](https://getalby.com/p/dragonsdom)
+* [Useful links](/links.md)
 * [Contact](/contact.md)
