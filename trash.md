@@ -12,6 +12,8 @@ Trash should be separted as follows:
 
 Sorted (marked) containers are collected alternate **Wednesdays** according to the schedule below (but sometimes are collected a day later).
 
+Do NOT put sheet glass in the glass bin!  It won't be collected.
+
 Zmajevac is the section referenced as "Popovac I Kn. Vinogradi"
 
 ![](static/assets/img/trash-sorted.jpg)
@@ -24,7 +26,7 @@ Mixed (Green, unmarked) is collected every **Monday**.  Some people have a contr
 
 ![](static/assets/img/trash-mixed.jpg)
 
-Important - be sure to use the green bin with the sticker below!  This is the RFID chip, and they won't take the other one (without the sticker)
+**Important** - be sure to use the green bin with the sticker below!  This is the RFID chip, and they won't take the other one (without the sticker)
 
 ![](static/assets/img/trash-sticker.png)
 

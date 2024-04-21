@@ -28,6 +28,10 @@ Has stove with wood / coal heating, also an electric + gas oven.
 
 We recommend to use bottled water in the electric kettle as the tap water will cause scaling / white residue inside.
 
+## Hallway
+
+The tiles in the hallway were created by prisoners in the [Croatian Alcatraz](https://en.wikipedia.org/wiki/Goli_Otok).  The oven unit stored there is functional, but only the hob, not the oven part.
+
 ## Downstairs Flat
 
 Currently used to store the waste whilst we wait for recycling pickups.  There is also a room that could be fairly liveable.
@@ -43,7 +47,7 @@ Used for wood storage (small pieces, that will fit in the inside wood heaters).
 
 ## Medium Cellar
 
-Plan is to remove the chicken coop and use this room for "useful metal" and "useful wood" (not to burn).
+This room is used for "useful metal" and "useful wood" (not to burn).  Used to be the back part of a pig sty.
 
 ## Large Cellar
 

@@ -4,6 +4,10 @@
 
 Closest shop.  Open until 8pm but closed on Sundays.  https://www.openstreetmap.org/#map=19/45.79835/18.80408
 
+## Kovac Csarda
+
+Our recommended restaurant, good prices and great service:  https://www.openstreetmap.org/#map=19/45.78944/18.78805
+
 ## Local Food - Zmajevac
 
 Organic, free range chicken (3€ per 10) and duck (10€ per 10) eggs, plus rabbit meat (hare) from a homestead in Zmajevac.
@@ -38,15 +42,15 @@ Contact Dorian on dorianzajec1301@icloud.com
 
 ![](static/assets/img/gardening.png)
 
+## Market - Osijek
+
+Every month there is a big market in Osijek, selling food, clothes, equipment, and machinery.
+
 ## Taxi (to Pecs, Hungary)
 
 We have the contact of a taxi driver in Pecs (Roland) who can arrange transport to / from Zmajevac for around 35-40k HUF (~100 EUR)
 
 Contact a Dragon for details.
-
-## Kovac Csarda
-
-Our recommended restaurant, good prices and great service:  https://www.openstreetmap.org/#map=19/45.78944/18.78805
 
 ## Restaurant Josic
 
