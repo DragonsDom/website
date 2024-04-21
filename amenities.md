@@ -10,12 +10,12 @@ Our recommended restaurant, good prices and great service:  https://www.openstre
 
 ## Local Food - Zmajevac
 
-Organic, free range chicken (3€ per 10) and duck (10€ per 10) eggs, plus rabbit meat (hare) from a homestead in Zmajevac.
+Organic, free range chicken (3€ per 10) and duck (10€ per 10) eggs, plus bread and rabbit meat (hare) from a homestead in Zmajevac.
 During the harvest season they also have marmalades, fruit syrups, home made cosmetics and tinctures.
 
 BTC accepted.  Contact a Dragon for details.
 
-### Local Food - Batina
+## Local Food - Batina
 
 A variety of goats Cheese, fresh eggs, yoghurt, chickens (whole, or cuts), goat meat, rabbit, and occasionally other items.  Call **Vince** for info (or message on Signal).  In Batina but can deliver if the order is big enough.
 
@@ -44,7 +44,9 @@ Contact Dorian on dorianzajec1301@icloud.com
 
 ## Market - Osijek
 
-Every month there is a big market in Osijek, selling food, clothes, equipment, and machinery.
+Every Sunday there is a big market in Osijek, selling food, clothes, equipment, and machinery.  Location:  https://maps.app.goo.gl/Uhkp75d5QxY8ndpDA?g_st=ic
+
+There is also an antique flea market on the first Saturday of each month.
 
 ## Taxi (to Pecs, Hungary)
 
