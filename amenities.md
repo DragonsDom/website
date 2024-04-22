@@ -23,7 +23,7 @@ A variety of goats Cheese, fresh eggs, yoghurt, chickens (whole, or cuts), goat 
 
 ## Zajec Wine
 
-These guys make excellent wine.  Just call and collect.  BTC accepted.
+These guys make excellent wine.  Just call and collect.  Bottles may be returned to them.  Screw tops!  BTC accepted.
 
 ![](static/assets/img/zajecwine.png)
 
@@ -50,9 +50,9 @@ There is also an antique flea market on the first Saturday of each month.
 
 ## Taxi (to Pecs, Hungary)
 
-We have the contact of a taxi driver in Pecs (Roland) who can arrange transport to / from Zmajevac for around 35-40k HUF (~100 EUR)
+We have the contact of a taxi driver in Pecs who can arrange transport to / from Zmajevac for around 35-40k HUF (~100 EUR)
 
-Contact a Dragon for details.
+Contact Roland on alfoldiroland46@gmail.com
 
 ## Restaurant Josic
 
