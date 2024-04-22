@@ -10,10 +10,11 @@ Our recommended restaurant, good prices and great service:  https://www.openstre
 
 ## Local Food - Zmajevac
 
-Organic, free range chicken (3€ per 10) and duck (10€ per 10) eggs, plus bread and rabbit meat (hare) from a homestead in Zmajevac.
+Organic, free range chicken (3€ per 10) and duck (10€ per 10) eggs, plus bread and rabbit meat (hare) from a homestead in Zmajevac.  There are a selection of ducks, including [muscovy](https://www.growingwildroots.com/benefits-keeping-muscovy-ducks/).
+
 During the harvest season they also have marmalades, fruit syrups, home made cosmetics and tinctures.
 
-BTC accepted.  Contact a Dragon for details.
+Bitcoin (lightning network) accepted.  Contact a Dragon for details.
 
 ## Local Food - Batina
 

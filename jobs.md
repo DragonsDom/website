@@ -4,11 +4,15 @@ The following jobs are needed to help get Dragons Dom into tip top shape!  Note 
 
 ## Mains Water supply
 
-The mains water has been ordered from the municipality, when it arrives, it needs to be connected to the house
+The mains water has been ordered from the municipality, when it arrives, it needs to be connected to the house (plan is to connect up the outside of the rear of the property and use the existing intake valve by the well)
 
 ## Well Water supply
 
-There is a problem with the well (which is connected to the taps upstairs) as it does not maintain pressure.  A new pipe is likely needed.
+There is a problem with the well (which is connected to the taps upstairs) as it does not maintain pressure.  
+
+Should we get this working, a reverse osmosis filter could be the way to go (we'd have drinkable water without the government dependence)
+
+We have been recommended a husband and wife team (Maldea d.o.o.) who are really nice and have reasonable prices. Here is their website: https://www.maldea.hr/.   Danijela can also give us the direct contact.
 
 ## Sealing the Attic Window
 
