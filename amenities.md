@@ -43,6 +43,12 @@ Contact Dorian on dorianzajec1301@icloud.com
 
 ![](static/assets/img/gardening.png)
 
+## Well
+
+Varga Sandor is the man.  He can do well digging for 330e.  Details:
+
+![](static/assets/img/varga.jpg)
+
 ## Market - Osijek
 
 Every Sunday there is a big market in Osijek, selling food, clothes, equipment, and machinery.  Location:  https://maps.app.goo.gl/Uhkp75d5QxY8ndpDA?g_st=ic
