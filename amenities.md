@@ -24,7 +24,7 @@ A variety of goats Cheese, fresh eggs, yoghurt, chickens (whole, or cuts), goat 
 
 ## Zajec Wine
 
-These guys make excellent wine.  Just call and collect.  Bottles may be returned to them.  Screw tops!  BTC accepted.
+These guys make excellent wine.  Just call and collect (they can also deliver).  Bottles may be returned to them.  Screw tops!  BTC accepted.
 
 ![](static/assets/img/zajecwine.png)
 
