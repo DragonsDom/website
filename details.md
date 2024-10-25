@@ -71,4 +71,4 @@ Contains the sewage at the end, furthest from the house.
 
 ## Plans
 
-A couple of surveys are available - one for [land](/static/assets/files/1729_001.pdf) and the other one covering the [house](/static/assets/files/1730_001.pdf)
+A couple of surveys are available - one for [land](static/assets/files/1729_001.pdf) and the other one covering the [house](static/assets/files/1730_001.pdf)
