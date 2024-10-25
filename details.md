@@ -68,3 +68,7 @@ Contains a number of apple trees and a big fir tree that grew from a christmas t
 ## Bottom Garden
 
 Contains the sewage at the end, furthest from the house.
+
+## Plans
+
+A couple of surveys are available - one for [land](/static/assets/files/1729_001.pdf) and the other one covering the [house](/static/assets/files/1730_001.pdf)
