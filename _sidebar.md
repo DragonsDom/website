@@ -4,6 +4,7 @@
 * [Local Amenities](/amenities.md)
 * [Trash](/trash.md)
 * [Utilities](/utilities.md)
+* [Electric](/electric.md)
 * [Work Needed](/jobs.md)
 * [Donations](https://getalby.com/p/dragonsdom)
 * [Useful links](/links.md)
